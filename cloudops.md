@@ -1,6 +1,6 @@
-Wranglin' database servers
+Wranglin' db servers
 ===
-Trove, Database as a Service
+Trove, Database as a Service  
 Michael Basnight, Trove PTL
 
 !
@@ -9,6 +9,12 @@ Trove in Havana
 ===
 * Incubated in havana
 * Integrated in icehouse
+
+!
+
+Havana Features
+===
+* 
 
 !
 
@@ -42,19 +48,15 @@ Havana Features
 
 !
 
-Refactoring for Icehouse
+Icehouse Features
 ===
-* troveclient
-* guest cleanup for multi datastores
+*   
 
 !
 
 Icehouse Features
 ===
 * multi datastore (not just MySQL)
- * Redis
- * MongoDB
- * Cassandra
 
 !
 
@@ -85,3 +87,9 @@ Icehouse Features
 Icehouse Features
 ===
 * clustering and replication
+
+!
+
+Questions
+===
+??

@@ -1,3 +1,4 @@
-In order to view these in a presentation mode, plz use
+Im using MarkdownPresenter from [1]. In order to run this follow his directions.
+Also, make sure to properly symlink presentation.md to your current prezo.
 
-https://github.com/jsakamoto/MarkdownPresenter
+[1] https://github.com/jsakamoto/MarkdownPresenter
